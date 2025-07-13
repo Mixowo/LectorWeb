@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "title": "Conoce la Magia (1)"
+  },
+  {
+    "id": 2,
+    "title": "Conoce la Magia (2)"
+  },
+  {
+    "id": 3,
+    "title": "Conoce la Magia (3)"
+  },
+  {
+    "id": 4,
+    "title": "Conoce la Magia (4)"
+  },
+  {
+    "id": 5,
+    "title": "Conoce la Magia (5)"
+  },
+  {
+    "id": 6,
+    "title": "Oportunidades que valen más que la vida (2)"
+  },
+  {
+    "id": 7,
+    "title": "Oportunidades que valen más que la vida (3)"
+  },
+  {
+    "id": 8,
+    "title": "Oportunidades que valen más que la vida (4)"
+  },
+  {
+    "id": 9,
+    "title": "Oportunidades que valen más que la vida (5)"
+  },
+  {
+    "id": 10,
+    "title": "El primer paso hacia el sueño (2)"
+  },
+  {
+    "id": 11,
+    "title": "El primer paso hacia el sueño (3)"
+  },
+  {
+    "id": 12,
+    "title": "El primer paso hacia el sueño (4)"
+  },
+  {
+    "id": 13,
+    "title": "El primer paso hacia el sueño (5)"
+  },
+  {
+    "id": 14,
+    "title": "El primer paso hacia el sueño (6)"
+  },
+  {
+    "id": 15,
+    "title": "El primer paso hacia el sueño (7)"
+  },
+  {
+    "id": 16,
+    "title": "Escuela de Magia Alpheas (2)"
+  },
+  {
+    "id": 17,
+    "title": "Escuela de Magia Alpheas (3)"
+  },
+  {
+    "id": 18,
+    "title": "Escuela de Magia Alpheas (4)"
+  },
+  {
+    "id": 19,
+    "title": "Aprender magia (2)"
+  },
+  {
+    "id": 20,
+    "title": "Aprender magia (3)"
+  },
+  {
+    "id": 21,
+    "title": "Aprender magia (4)"
+  },
+  {
+    "id": 22,
+    "title": "Aprender magia (5)"
+  },
+  {
+    "id": 23,
+    "title": "Chico frío y chica caliente (2)"
+  },
+  {
+    "id": 24,
+    "title": "Chico frío y chica caliente (3)"
+  },
+  {
+    "id": 25,
+    "title": "Chico frío y chica caliente (4)"
+  },
+  {
+    "id": 26,
+    "title": "Lo que el dinero no puede comprar (1)"
+  },
+  {
+    "id": 27,
+    "title": "Lo que el dinero no puede comprar (2)"
+  },
+  {
+    "id": 28,
+    "title": "Lo que el dinero no puede comprar (3)"
+  },
+  {
+    "id": 29,
+    "title": "Un espina en el ojo (2)"
+  },
+  {
+    "id": 30,
+    "title": "Espina en el ojo (3)"
+  },
+  {
+    "id": 31,
+    "title": "Teletransporte (2)"
+  },
+  {
+    "id": 32,
+    "title": "Teletransportación (3)"
+  },
+  {
+    "id": 33,
+    "title": "Teletransportación (4)"
+  },
+  {
+    "id": 34,
+    "title": "Teletransportación (5)"
+  },
+  {
+    "id": 35,
+    "title": "El Puente que No Puedo Cruzar (2)"
+  },
+  {
+    "id": 36,
+    "title": "El Puente que No Puedo Cruzar (3)"
+  },
+  {
+    "id": 37,
+    "title": "El Puente que No Puedo Cruzar (4)"
+  },
+  {
+    "id": 38,
+    "title": "El Puente que No Puedo Cruzar (5)"
+  },
+  {
+    "id": 39,
+    "title": "Otro Genio (1)"
+  },
+  {
+    "id": 40,
+    "title": "Otro Genio (2)"
+  },
+  {
+    "id": 41,
+    "title": "Otro Genio (3)"
+  },
+  {
+    "id": 42,
+    "title": "Otro Genio (4)"
+  },
+  {
+    "id": 43,
+    "title": "Ilimitado (2)"
+  },
+  {
+    "id": 44,
+    "title": "Ilimitado (3)"
+  },
+  {
+    "id": 45,
+    "title": "Ilimitado (4)"
+  },
+  {
+    "id": 46,
+    "title": "Ilimitado (5)"
+  },
+  {
+    "id": 47,
+    "title": "Ilimitado (6)"
+  },
+  {
+    "id": 48,
+    "title": "Ilimitado (7)"
+  },
+  {
+    "id": 49,
+    "title": "Extraño Grupo de Estudio (1)"
+  },
+  {
+    "id": 50,
+    "title": "Extraño Grupo de Estudio (2)"
+  },
+  {
+    "id": 51,
+    "title": "Extraño Grupo de Estudio (3)"
+  },
+  {
+    "id": 52,
+    "title": "Desbordamiento (2)"
+  },
+  {
+    "id": 53,
+    "title": "Desbordamiento (3)"
+  },
+  {
+    "id": 54,
+    "title": "Desbordamiento (4)"
+  },
+  {
+    "id": 55,
+    "title": "Desbordamiento (5)"
+  },
+  {
+    "id": 56,
+    "title": "Simetría de Gage (2)"
+  },
+  {
+    "id": 57,
+    "title": "Simetría de Gage (3)"
+  },
+  {
+    "id": 58,
+    "title": "Simetría de Gage (4)"
+  },
+  {
+    "id": 59,
+    "title": "Shiina bajo la luz de la luna (2)"
+  },
+  {
+    "id": 60,
+    "title": "Shiina bajo la luz de la luna (3)"
+  },
+  {
+    "id": 61,
+    "title": "Shiina bajo la luz de la luna (4)"
+  },
+  {
+    "id": 62,
+    "title": "Invisible (2)"
+  },
+  {
+    "id": 63,
+    "title": "Invisible (3)"
+  },
+  {
+    "id": 64,
+    "title": "Invisible (4)"
+  },
+  {
+    "id": 65,
+    "title": "Lo Invisible (5)"
+  },
+  {
+    "id": 66,
+    "title": "Lo Invisible (6)"
+  },
+  {
+    "id": 67,
+    "title": "Lo Invisible (7)"
+  },
+  {
+    "id": 68,
+    "title": "En la cima (2)"
+  },
+  {
+    "id": 69,
+    "title": "En la cima (3)"
+  },
+  {
+    "id": 70,
+    "title": "En la cima (4)"
+  },
+  {
+    "id": 71,
+    "title": "En la cima (5)"
+  },
+  {
+    "id": 72,
+    "title": "Soñar despierto (1)"
+  },
+  {
+    "id": 73,
+    "title": "Soñar despierto (2)"
+  },
+  {
+    "id": 74,
+    "title": "Soñar despierto (3) y El Retorno del Archimago (1)"
+  },
+  {
+    "id": 75,
+    "title": "El Retorno del Archimago (2)"
+  },
+  {
+    "id": 76,
+    "title": "El Retorno del Archimago (3)"
+  },
+  {
+    "id": 77,
+    "title": "El Retorno del Archimago (4)"
+  },
+  {
+    "id": 78,
+    "title": "Intruso Oscuro (2)"
+  },
+  {
+    "id": 79,
+    "title": "Invitado Oscuro No Invitado (3)"
+  },
+  {
+    "id": 80,
+    "title": "Invitado Oscuro No Invitado (4)"
+  },
+  {
+    "id": 81,
+    "title": "La Batalla del Mago (2)"
+  },
+  {
+    "id": 82,
+    "title": "Batalla de Magos (3)"
+  },
+  {
+    "id": 83,
+    "title": "Batalla de Magos (4)"
+  },
+  {
+    "id": 84,
+    "title": "Luz y oscuridad, bien y mal (2)"
+  },
+  {
+    "id": 85,
+    "title": "Luz y oscuridad, bien y mal (3)"
+  },
+  {
+    "id": 86,
+    "title": "Grupo (2)"
+  },
+  {
+    "id": 87,
+    "title": "Grupo (3)"
+  },
+  {
+    "id": 88,
+    "title": "Grupo (4)"
+  },
+  {
+    "id": 89,
+    "title": "Grupo (5)"
+  },
+  {
+    "id": 90,
+    "title": "Grupo (6)"
+  },
+  {
+    "id": 91,
+    "title": "Maestro/Sirviente Invertido (2)"
+  },
+  {
+    "id": 92,
+    "title": "Genio que perdió su luz (1)"
+  },
+  {
+    "id": 93,
+    "title": "Genio que perdió su luz (2)"
+  },
+  {
+    "id": 94,
+    "title": "Genio que perdió su luz (3)"
+  },
+  {
+    "id": 95,
+    "title": "Genio que perdió su luz (4)"
+  },
+  {
+    "id": 96,
+    "title": "Genio que perdió su luz (5)"
+  },
+  {
+    "id": 97,
+    "title": "Genio que perdió su luz (6)"
+  },
+  {
+    "id": 98,
+    "title": "Infinito (2)"
+  },
+  {
+    "id": 99,
+    "title": "Infinito (3)"
+  },
+  {
+    "id": 100,
+    "title": "Conocer a Dios (2)"
+  },
+  {
+    "id": 101,
+    "title": "Conocer a Dios (3)"
+  },
+  {
+    "id": 102,
+    "title": "Geumgangseung (2)"
+  },
+  {
+    "id": 103,
+    "title": "Geumgangseung (3)"
+  },
+  {
+    "id": 104,
+    "title": "Geumgangseung (4)"
+  },
+  {
+    "id": 105,
+    "title": "Geumgangseung (5)"
+  },
+  {
+    "id": 106,
+    "title": "Geumgangseung (6)"
+  },
+  {
+    "id": 107,
+    "title": "A la vida diaria (2)"
+  },
+  {
+    "id": 108,
+    "title": "A la vida diaria (3)"
+  },
+  {
+    "id": 109,
+    "title": "A la vida diaria (4)"
+  },
+  {
+    "id": 110,
+    "title": "Boleta de calificaciones al final del semestre (2)"
+  },
+  {
+    "id": 111,
+    "title": "Boleta de calificaciones al final del semestre (3)"
+  },
+  {
+    "id": 112,
+    "title": "Boleta de calificaciones al final del semestre (4)"
+  },
+  {
+    "id": 113,
+    "title": "Boleta de calificaciones al final del semestre (5)"
+  },
+  {
+    "id": 114,
+    "title": "Boleta de calificaciones al final del semestre (6)"
+  },
+  {
+    "id": 115,
+    "title": "Boleta de calificaciones al final del semestre (7)"
+  },
+  {
+    "id": 116,
+    "title": "Invitado inesperado (1)"
+  },
+  {
+    "id": 117,
+    "title": "Invitado inesperado (2)"
+  },
+  {
+    "id": 118,
+    "title": "Invitado inesperado (3)"
+  },
+  {
+    "id": 119,
+    "title": "Invitado inesperado (4)"
+  },
+  {
+    "id": 120,
+    "title": "Invitado inesperado (5)"
+  },
+  {
+    "id": 121,
+    "title": "Nuevo encuentro (2)"
+  },
+  {
+    "id": 122,
+    "title": "Nuevo encuentro (3)"
+  },
+  {
+    "id": 123,
+    "title": "Nuevo encuentro (4)"
+  },
+  {
+    "id": 124,
+    "title": "Nuevo encuentro (5)"
+  },
+  {
+    "id": 125,
+    "title": "Isla GalRiant (2)"
+  },
+  {
+    "id": 126,
+    "title": "Isla GalRiant (3)"
+  },
+  {
+    "id": 127,
+    "title": "Isla GalRiant (4)"
+  },
+  {
+    "id": 128,
+    "title": "Isla GalRiant (5)"
+  },
+  {
+    "id": 129,
+    "title": "Isla GalRiant (6)"
+  },
+  {
+    "id": 130,
+    "title": "Isla GalRiant (7)"
+  },
+  {
+    "id": 131,
+    "title": "Lo que toma precedencia (2)"
+  },
+  {
+    "id": 132,
+    "title": "Lo que toma precedencia (3)"
+  },
+  {
+    "id": 133,
+    "title": "Prioridad (4)"
+  },
+  {
+    "id": 134,
+    "title": "Prioridad (5)"
+  },
+  {
+    "id": 135,
+    "title": "Lo que toma precedencia (6)"
+  },
+  {
+    "id": 136,
+    "title": "Ruinas Antiguas (2)"
+  },
+  {
+    "id": 137,
+    "title": "Ruinas Antiguas (3)"
+  },
+  {
+    "id": 138,
+    "title": "Espacio-tiempo del Laberinto (2)"
+  },
+  {
+    "id": 139,
+    "title": "Espacio-tiempo del laberinto (3)"
+  },
+  {
+    "id": 140,
+    "title": "Espacio-tiempo del Laberinto (4)"
+  },
+  {
+    "id": 141,
+    "title": "Espacio-tiempo del Laberinto (5)"
+  },
+  {
+    "id": 142,
+    "title": "Espacio-tiempo del laberinto (6)"
+  },
+  {
+    "id": 143,
+    "title": "El loro llamado (1)"
+  },
+  {
+    "id": 144,
+    "title": "El loro llamado (2)"
+  },
+  {
+    "id": 145,
+    "title": "El loro llamado (3)"
+  },
+  {
+    "id": 146,
+    "title": "El loro llamado (4)"
+  },
+  {
+    "id": 147,
+    "title": "Avance Forzado (2)"
+  },
+  {
+    "id": 148,
+    "title": "Avance Forzado (3)"
+  },
+  {
+    "id": 149,
+    "title": "Avance Forzado (4)"
+  },
+  {
+    "id": 150,
+    "title": "Avance Forzado (5)"
+  },
+  {
+    "id": 151,
+    "title": "Avance Forzado (6)"
+  },
+  {
+    "id": 152,
+    "title": "Avance Forzado (7)"
+  },
+  {
+    "id": 153,
+    "title": "Segundo Encuentro (2)"
+  },
+  {
+    "id": 154,
+    "title": "Segundo Encuentro (3)"
+  },
+  {
+    "id": 155,
+    "title": "Segundo Encuentro (4)"
+  },
+  {
+    "id": 156,
+    "title": "Segundo Encuentro (5)"
+  },
+  {
+    "id": 157,
+    "title": "Segundo Encuentro (6)"
+  },
+  {
+    "id": 158,
+    "title": "Marsha de Barro (2)"
+  },
+  {
+    "id": 159,
+    "title": "Marsha de Barro (3)"
+  },
+  {
+    "id": 160,
+    "title": "Marsha de Barro (4)"
+  },
+  {
+    "id": 161,
+    "title": "Marsha de Barro (5)"
+  },
+  {
+    "id": 162,
+    "title": "Marsha de Barro (6)"
+  },
+  {
+    "id": 163,
+    "title": "Almuerzo Tarde (2)"
+  },
+  {
+    "id": 164,
+    "title": "Almuerzo Tarde (3)"
+  },
+  {
+    "id": 165,
+    "title": "Transacciones Peligrosas (2)"
+  },
+  {
+    "id": 166,
+    "title": "Transacciones Peligrosas (3)"
+  },
+  {
+    "id": 167,
+    "title": "Transacciones Peligrosas (4)"
+  },
+  {
+    "id": 168,
+    "title": "Transacciones Peligrosas (5)"
+  },
+  {
+    "id": 169,
+    "title": "Distrito Autónomo de Kergo (1)"
+  },
+  {
+    "id": 170,
+    "title": "Distrito Autónomo de Kergo (2)"
+  },
+  {
+    "id": 171,
+    "title": "Distrito Autónomo de Kergo (3)"
+  },
+  {
+    "id": 172,
+    "title": "Distrito Autónomo de Kergo (4)"
+  },
+  {
+    "id": 173,
+    "title": "Distrito Autónomo de Kergo (5)"
+  },
+  {
+    "id": 174,
+    "title": "Distrito Autónomo de Kergo (6)"
+  },
+  {
+    "id": 175,
+    "title": "La Puerta de Guffin (2)"
+  },
+  {
+    "id": 176,
+    "title": "La Puerta de Guffin (3)"
+  },
+  {
+    "id": 177,
+    "title": "Bosque de los Profanos (2)"
+  },
+  {
+    "id": 178,
+    "title": "Bosque de los Profanos (3)"
+  },
+  {
+    "id": 179,
+    "title": "Bosque de los Profanos (4)"
+  },
+  {
+    "id": 180,
+    "title": "Bosque de los Profanos (5)"
+  },
+  {
+    "id": 181,
+    "title": "Inversión de la Ley (2)"
+  },
+  {
+    "id": 182,
+    "title": "Inversión de la Ley (3)"
+  },
+  {
+    "id": 183,
+    "title": "Inversión de la Ley (4)"
+  },
+  {
+    "id": 184,
+    "title": "Inversión de la Ley (5)"
+  },
+  {
+    "id": 185,
+    "title": "Inversión de la Ley (6)"
+  },
+  {
+    "id": 186,
+    "title": "Inversión de la Ley (7)"
+  },
+  {
+    "id": 187,
+    "title": "5. El Refugio de Norr (2)"
+  },
+  {
+    "id": 188,
+    "title": "5. El Refugio de Norr (3)"
+  },
+  {
+    "id": 189,
+    "title": "5. El Refugio de Norr (4)"
+  },
+  {
+    "id": 190,
+    "title": "5. El Refugio de Norr (5)"
+  },
+  {
+    "id": 191,
+    "title": "5. El Refugio de Norr (6)"
+  },
+  {
+    "id": 192,
+    "title": "5. El Refugio de Norr (7)"
+  },
+  {
+    "id": 193,
+    "title": "6. Anécdota (2)"
+  },
+  {
+    "id": 194,
+    "title": "6. Elixir Anecdótico (3)"
+  },
+  {
+    "id": 195,
+    "title": "6. Elixir Anecdótico (4)"
+  },
+  {
+    "id": 196,
+    "title": "1. Divina Misericordia (1)"
+  },
+  {
+    "id": 197,
+    "title": "1. Divina Misericordia (2)"
+  },
+  {
+    "id": 198,
+    "title": "1. Divina Misericordia (3)"
+  },
+  {
+    "id": 199,
+    "title": "1. Divina Misericordia (4)"
+  },
+  {
+    "id": 200,
+    "title": "1. Divina Misericordia (5)"
+  },
+  {
+    "id": 201,
+    "title": "1. Divina Misericordia (6)"
+  },
+  {
+    "id": 202,
+    "title": "2. La Edad de la Turbulencia (2)"
+  },
+  {
+    "id": 203,
+    "title": "2. La Edad de la Turbulencia (3)"
+  },
+  {
+    "id": 204,
+    "title": "2. La Edad de la Turbulencia (4)"
+  },
+  {
+    "id": 205,
+    "title": "3. Ra Eterno (2)"
+  },
+  {
+    "id": 206,
+    "title": "3. Ra Eterno (3)"
+  },
+  {
+    "id": 207,
+    "title": "3. Ra Eterno (4)"
+  },
+  {
+    "id": 208,
+    "title": "4. La Verdad del Cielo (2)"
+  },
+  {
+    "id": 209,
+    "title": "4. La Verdad del Cielo (3)"
+  },
+  {
+    "id": 210,
+    "title": "4. La Verdad del Cielo (4)"
+  },
+  {
+    "id": 211,
+    "title": "4. La Verdad del Cielo (5)"
+  },
+  {
+    "id": 212,
+    "title": "5. Ceremonia Mágica del Ángel (2)"
+  },
+  {
+    "id": 213,
+    "title": "5. Fórmula Mágica del Ángel (3)"
+  },
+  {
+    "id": 214,
+    "title": "5. Ceremonia Mágica del Ángel (4)"
+  },
+  {
+    "id": 215,
+    "title": "6. El Problema del Cielo (2)"
+  },
+  {
+    "id": 216,
+    "title": "6. Problema en el Cielo (3)"
+  },
+  {
+    "id": 217,
+    "title": "6. Problema en el Cielo (4)"
+  },
+  {
+    "id": 218,
+    "title": "6. Problema en el Cielo (5)"
+  },
+  {
+    "id": 219,
+    "title": "7. Problema en el Cielo (2)"
+  },
+  {
+    "id": 220,
+    "title": "7. Problema en el Cielo (3)"
+  },
+  {
+    "id": 221,
+    "title": "7. Recuerdos de Galliant (1)"
+  },
+  {
+    "id": 222,
+    "title": "7. Recuerdos de Galliant (2)"
+  },
+  {
+    "id": 223,
+    "title": "7. Esperando el nuevo semestre (2)"
+  },
+  {
+    "id": 224,
+    "title": "2. Esperando que abra la escuela (2)"
+  },
+  {
+    "id": 225,
+    "title": "2. Esperando que abra la escuela (3)"
+  },
+  {
+    "id": 226,
+    "title": "2. Esperando que abra la escuela (4)"
+  },
+  {
+    "id": 227,
+    "title": "¿Dónde está Shirone? (2)"
+  },
+  {
+    "id": 228,
+    "title": "¿Dónde está Shirone? (3)"
+  },
+  {
+    "id": 229,
+    "title": "¿Dónde está Shirone? (4)"
+  },
+  {
+    "id": 230,
+    "title": "¿Dónde está Shirone? (5)"
+  },
+  {
+    "id": 231,
+    "title": "¿Dónde está Shirone? (6)"
+  },
+  {
+    "id": 232,
+    "title": "4. Simulación de Combate (2)"
+  },
+  {
+    "id": 233,
+    "title": "4. Simulación de Batalla (3)"
+  },
+  {
+    "id": 234,
+    "title": "4. Simulación de Combate (4)"
+  },
+  {
+    "id": 235,
+    "title": "4. Simulación de Combate (5)"
+  },
+  {
+    "id": 236,
+    "title": "4. Simulación de Combate (6)"
+  },
+  {
+    "id": 237,
+    "title": "4. Simulación de Batalla (7)"
+  },
+  {
+    "id": 238,
+    "title": "4. Simulación de Combate (8)"
+  },
+  {
+    "id": 239,
+    "title": "4. Simulación de Combate (9)"
+  },
+  {
+    "id": 240,
+    "title": "5. Punto de Partido (2)"
+  },
+  {
+    "id": 241,
+    "title": "5. Punto de Partido (3)"
+  },
+  {
+    "id": 242,
+    "title": "6. Choque Mágico (2)"
+  },
+  {
+    "id": 243,
+    "title": "6. Choque Mágico (3)"
+  },
+  {
+    "id": 244,
+    "title": "6. Choque Mágico (4)"
+  },
+  {
+    "id": 245,
+    "title": "6. Choque Mágico (5)"
+  },
+  {
+    "id": 246,
+    "title": "6. Choque Mágico (6)"
+  },
+  {
+    "id": 247,
+    "title": "6. Choque Mágico (7)"
+  },
+  {
+    "id": 248,
+    "title": "Operación del sistema (1)"
+  },
+  {
+    "id": 249,
+    "title": "Operación del sistema (2)"
+  },
+  {
+    "id": 250,
+    "title": "Operación del sistema (3)"
+  },
+  {
+    "id": 251,
+    "title": "Operaciones del sistema (4)"
+  },
+  {
+    "id": 252,
+    "title": "Otro cielo (2)"
+  },
+  {
+    "id": 253,
+    "title": "Otro cielo (3)"
+  },
+  {
+    "id": 254,
+    "title": "Otro cielo (4)"
+  },
+  {
+    "id": 255,
+    "title": "Otro cielo (5)"
+  },
+  {
+    "id": 256,
+    "title": "Otro cielo (6)"
+  },
+  {
+    "id": 257,
+    "title": "La verdad revelada (2)"
+  },
+  {
+    "id": 258,
+    "title": "La verdad revelada (3)"
+  },
+  {
+    "id": 259,
+    "title": "La verdad revelada (4)"
+  },
+  {
+    "id": 260,
+    "title": "La verdad revelada (5)"
+  },
+  {
+    "id": 261,
+    "title": "La verdad revelada (6)"
+  },
+  {
+    "id": 262,
+    "title": "La verdad revelada (7)"
+  },
+  {
+    "id": 263,
+    "title": "Circunstancias de la familia Ogent (2)"
+  },
+  {
+    "id": 264,
+    "title": "Circunstancias de la familia Ogent (3)"
+  },
+  {
+    "id": 265,
+    "title": "Reino de Kazura (2)"
+  },
+  {
+    "id": 266,
+    "title": "Reino de Kazura (3)"
+  },
+  {
+    "id": 267,
+    "title": "Reino de Kazura (4)"
+  },
+  {
+    "id": 268,
+    "title": "Reino de Kazura (5)"
+  },
+  {
+    "id": 269,
+    "title": "Linaje de Theraze (2)"
+  },
+  {
+    "id": 270,
+    "title": "Linaje de Theraze (3)"
+  },
+  {
+    "id": 271,
+    "title": "Linaje de Theraze (4)"
+  },
+  {
+    "id": 272,
+    "title": "1. Relaciones amistosas hostiles (1)"
+  },
+  {
+    "id": 273,
+    "title": "1. Relaciones amistosas hostiles (2)"
+  },
+  {
+    "id": 274,
+    "title": "1. Relaciones amistosas hostiles (3)"
+  },
+  {
+    "id": 275,
+    "title": "1. Relaciones amistosas hostiles (4)"
+  },
+  {
+    "id": 276,
+    "title": "1. Relaciones amistosas hostiles (5)"
+  },
+  {
+    "id": 277,
+    "title": "1. Relaciones amistosas hostiles (6)"
+  },
+  {
+    "id": 278,
+    "title": "2. La trampa del o esto o lo otro (2)"
+  },
+  {
+    "id": 279,
+    "title": "2. La trampa del o esto o lo otro (3)"
+  },
+  {
+    "id": 280,
+    "title": "2. La trampa del o esto o lo otro (4)"
+  },
+  {
+    "id": 281,
+    "title": "3. Baile nocturno (2)"
+  },
+  {
+    "id": 282,
+    "title": "3. Baile nocturno (3)"
+  },
+  {
+    "id": 283,
+    "title": "3. Baile nocturno (4)"
+  },
+  {
+    "id": 284,
+    "title": "3. Baile nocturno (5)"
+  },
+  {
+    "id": 285,
+    "title": "4. Propuesta de Theraze (2)"
+  },
+  {
+    "id": 286,
+    "title": "4. Propuesta de Theraze (3)"
+  },
+  {
+    "id": 287,
+    "title": "4. Propuesta de Theraze (4)"
+  },
+  {
+    "id": 288,
+    "title": "5. Todo tipo de variables (2)"
+  },
+  {
+    "id": 289,
+    "title": "5. Todo tipo de variables (3)"
+  },
+  {
+    "id": 290,
+    "title": "5. Todo tipo de variables (4)"
+  },
+  {
+    "id": 291,
+    "title": "5. Todo tipo de variables (5)"
+  },
+  {
+    "id": 292,
+    "title": "5. Todo tipo de variables (6)"
+  },
+  {
+    "id": 293,
+    "title": "6. El Gran Secreto (2)"
+  },
+  {
+    "id": 294,
+    "title": "6. El Gran Secreto (3)"
+  },
+  {
+    "id": 295,
+    "title": "6. El Gran Secreto (4)"
+  },
+  {
+    "id": 296,
+    "title": "6. El Gran Secreto (5)"
+  },
+  {
+    "id": 297,
+    "title": "Maestro de Ceremonias (1)"
+  },
+  {
+    "id": 298,
+    "title": "Maestro de Ceremonias (2)"
+  },
+  {
+    "id": 299,
+    "title": "Maestro de Ceremonias (3)"
+  },
+  {
+    "id": 300,
+    "title": "Maestro de Rituales (4)"
+  },
+  {
+    "id": 301,
+    "title": "Secretos del Abismo (2)"
+  },
+  {
+    "id": 302,
+    "title": "Secretos del Abismo (3)"
+  },
+  {
+    "id": 303,
+    "title": "Secretos del Abismo (4)"
+  },
+  {
+    "id": 304,
+    "title": "Maestro de la Encarnación (2)"
+  },
+  {
+    "id": 305,
+    "title": "Maestro de la Encarnación (3)"
+  },
+  {
+    "id": 306,
+    "title": "Maestro de la Encarnación (4)"
+  },
+  {
+    "id": 307,
+    "title": "Maestro de la Encarnación (5)"
+  },
+  {
+    "id": 308,
+    "title": "Maestro de la Encarnación (6)"
+  },
+  {
+    "id": 309,
+    "title": "Maestro de la Encarnación (7)"
+  },
+  {
+    "id": 310,
+    "title": "Rueda Causal (2)"
+  },
+  {
+    "id": 311,
+    "title": "Rueda Causal (3)"
+  },
+  {
+    "id": 312,
+    "title": "Rueda Causal (4)"
+  },
+  {
+    "id": 313,
+    "title": "Rueda Causal (5)"
+  },
+  {
+    "id": 314,
+    "title": "Rueda Causal (6)"
+  },
+  {
+    "id": 315,
+    "title": "Rueda Causal (7)"
+  },
+  {
+    "id": 316,
+    "title": "1/3 (2)"
+  },
+  {
+    "id": 317,
+    "title": "1/3 (3)"
+  },
+  {
+    "id": 318,
+    "title": "1/3 (4)"
+  },
+  {
+    "id": 319,
+    "title": "1/3 (5)"
+  },
+  {
+    "id": 320,
+    "title": "Ephemeral Rift (2)"
+  },
+  {
+    "id": 321,
+    "title": "Ephemeral Rift (3)"
+  },
+  {
+    "id": 322,
+    "title": "Ephemeral Rift (4)"
+  },
+  {
+    "id": 323,
+    "title": "Segunda salida (1)"
+  },
+  {
+    "id": 324,
+    "title": "Segunda salida (2)"
+  },
+  {
+    "id": 325,
+    "title": "Segunda Salida (3)"
+  },
+  {
+    "id": 326,
+    "title": "Segunda salida (4)"
+  },
+  {
+    "id": 327,
+    "title": "Segunda Salida (5)"
+  },
+  {
+    "id": 328,
+    "title": "Filosofía del Mago de Batalla (2)"
+  },
+  {
+    "id": 329,
+    "title": "Filosofía del Mago de Batalla (3)"
+  },
+  {
+    "id": 330,
+    "title": "Filosofía del Mago de Batalla (4)"
+  },
+  {
+    "id": 331,
+    "title": "Noche de Invierno (2)"
+  },
+  {
+    "id": 332,
+    "title": "Noche de Invierno (3)"
+  },
+  {
+    "id": 333,
+    "title": "Noche de Invierno (4)"
+  },
+  {
+    "id": 334,
+    "title": "Noche de Invierno (5)"
+  },
+  {
+    "id": 335,
+    "title": "Noche de Invierno (6)"
+  },
+  {
+    "id": 336,
+    "title": "Noche de Invierno (7)"
+  },
+  {
+    "id": 337,
+    "title": "Onda de la Ley (2)"
+  },
+  {
+    "id": 338,
+    "title": "Onda de la Ley (3)"
+  },
+  {
+    "id": 339,
+    "title": "Onda de la Ley (4)"
+  },
+  {
+    "id": 340,
+    "title": "Onda de la Ley (5)"
+  },
+  {
+    "id": 341,
+    "title": "Trinidad (2)"
+  },
+  {
+    "id": 342,
+    "title": "El héroe de la vida (2)"
+  },
+  {
+    "id": 343,
+    "title": "Protagonista de la vida (3)"
+  },
+  {
+    "id": 344,
+    "title": "Protagonista de la vida (4)"
+  },
+  {
+    "id": 345,
+    "title": "Trascendencia Divina (2)"
+  },
+  {
+    "id": 346,
+    "title": "Trascendencia Divina (3)"
+  },
+  {
+    "id": 347,
+    "title": "Trascendencia Divina (4)"
+  },
+  {
+    "id": 348,
+    "title": "Trascendencia Divina (5)"
+  },
+  {
+    "id": 349,
+    "title": "Creencia del Fiscal (1)"
+  },
+  {
+    "id": 350,
+    "title": "La Fe del Fiscal (2)"
+  },
+  {
+    "id": 351,
+    "title": "La Fe del Fiscal (3)"
+  },
+  {
+    "id": 352,
+    "title": "La Fe del Fiscal (4)"
+  },
+  {
+    "id": 353,
+    "title": "La Fe del Fiscal (5)"
+  },
+  {
+    "id": 354,
+    "title": "La Fe del Fiscal (6)"
+  },
+  {
+    "id": 355,
+    "title": "Asociación de Magia (1)"
+  },
+  {
+    "id": 356,
+    "title": "Asociación de Magia (2)"
+  },
+  {
+    "id": 357,
+    "title": "Asociación de Magia (3)"
+  },
+  {
+    "id": 358,
+    "title": "Asociación de Magia (4)"
+  },
+  {
+    "id": 359,
+    "title": "Asociación de Magia (5)"
+  },
+  {
+    "id": 360,
+    "title": "Asociación de Magia (6)"
+  },
+  {
+    "id": 361,
+    "title": "Asociación de Magia (7)"
+  },
+  {
+    "id": 362,
+    "title": "Asociación de Magia (8)"
+  },
+  {
+    "id": 363,
+    "title": "Asociación de Magia (9)"
+  },
+  {
+    "id": 364,
+    "title": "El peor proyecto (2)"
+  },
+  {
+    "id": 365,
+    "title": "El peor proyecto (3)"
+  },
+  {
+    "id": 366,
+    "title": "Entrenamiento especial (1)"
+  },
+  {
+    "id": 367,
+    "title": "Entrenamiento especial (2)"
+  },
+  {
+    "id": 368,
+    "title": "Entrenamiento especial (3)"
+  },
+  {
+    "id": 369,
+    "title": "Entrenamiento especial (4)"
+  },
+  {
+    "id": 370,
+    "title": "Entrenamiento especial (5)"
+  },
+  {
+    "id": 371,
+    "title": "Puerta de Acero (1)"
+  },
+  {
+    "id": 372,
+    "title": "Puerta de Acero (1)"
+  },
+  {
+    "id": 373,
+    "title": "Volumen 16 - Sesión informativa de la Clase Senior (1)"
+  },
+  {
+    "id": 374,
+    "title": "Volumen 16 - Sesión informativa de la Clase Senior (2)"
+  },
+  {
+    "id": 375,
+    "title": "Volumen 16 - Sesión informativa de la Clase Senior (3)"
+  },
+  {
+    "id": 376,
+    "title": "Volumen 16 - Sesión informativa de la Clase Senior (4)"
+  },
+  {
+    "id": 377,
+    "title": "Volumen 16 - Un paso más (2)"
+  },
+  {
+    "id": 378,
+    "title": "Volumen 16 - Entrando al sistema de competición (2)"
+  },
+  {
+    "id": 379,
+    "title": "Volumen 16 - Entrando al sistema de competición (3)"
+  },
+  {
+    "id": 380,
+    "title": "Volumen 16 - El significado de la supervivencia (2)"
+  },
+  {
+    "id": 381,
+    "title": "Volumen 16 - El significado de la supervivencia (3)"
+  },
+  {
+    "id": 382,
+    "title": "Volumen 16 - El significado de la supervivencia (4)"
+  },
+  {
+    "id": 383,
+    "title": "Volumen 16 - El significado de la supervivencia (5)"
+  },
+  {
+    "id": 384,
+    "title": "Volumen 16 - El significado de la supervivencia (6)"
+  },
+  {
+    "id": 385,
+    "title": "Volumen 16 - El significado de la supervivencia (7)"
+  },
+  {
+    "id": 386,
+    "title": "Volumen 16 - Equipo de un solo hombre (2)"
+  },
+  {
+    "id": 387,
+    "title": "Equipo de un solo hombre (3)"
+  },
+  {
+    "id": 388,
+    "title": "Volumen 16 - Equipo de un solo hombre (4)"
+  },
+  {
+    "id": 389,
+    "title": "Preparación para la Batalla (2)"
+  },
+  {
+    "id": 390,
+    "title": "Preparación para la Batalla (3)"
+  },
+  {
+    "id": 391,
+    "title": "Preparación para la Batalla (4)"
+  },
+  {
+    "id": 392,
+    "title": "Preparación para la Batalla (5)"
+  },
+  {
+    "id": 393,
+    "title": "Captura de las Tierras Altas (2)"
+  },
+  {
+    "id": 394,
+    "title": "Captura de las Tierras Altas (3)"
+  },
+  {
+    "id": 395,
+    "title": "Captura de las Tierras Altas (4)"
+  },
+  {
+    "id": 396,
+    "title": "Terreno Elevado (5)"
+  },
+  {
+    "id": 397,
+    "title": "La situación que cambia rápidamente (1)"
+  },
+  {
+    "id": 398,
+    "title": "La situación que cambia rápidamente (2)"
+  },
+  {
+    "id": 399,
+    "title": "La situación que cambia rápidamente (3)"
+  },
+  {
+    "id": 400,
+    "title": "La situación que cambia rápidamente (4)"
+  },
+  {
+    "id": 401,
+    "title": "Decisión Final (1)"
+  },
+  {
+    "id": 402,
+    "title": "Decisión Final (2)"
+  },
+  {
+    "id": 403,
+    "title": "Decisión Final (3)"
+  },
+  {
+    "id": 404,
+    "title": "Decisión Final (4)"
+  },
+  {
+    "id": 405,
+    "title": "Decisión Final (5)"
+  },
+  {
+    "id": 406,
+    "title": "Decisión Final (6)"
+  },
+  {
+    "id": 407,
+    "title": "Decisión Final (7)"
+  },
+  {
+    "id": 408,
+    "title": "Decisión Final (8)"
+  },
+  {
+    "id": 409,
+    "title": "Fuerza de Tareas (1)"
+  },
+  {
+    "id": 410,
+    "title": "Fuerza de Tareas (2)"
+  },
+  {
+    "id": 411,
+    "title": "Fuerza de Tareas (3)"
+  },
+  {
+    "id": 412,
+    "title": "Fuerza de Tareas (4)"
+  },
+  {
+    "id": 413,
+    "title": "Fuerza de Tareas (5)"
+  },
+  {
+    "id": 414,
+    "title": "Segundo Purgatorio (1)"
+  },
+  {
+    "id": 415,
+    "title": "Segundo Purgatorio (2)"
+  },
+  {
+    "id": 416,
+    "title": "Segundo Purgatorio (3)"
+  },
+  {
+    "id": 417,
+    "title": "Segundo Purgatorio (4)"
+  },
+  {
+    "id": 418,
+    "title": "Segundo Purgatorio (5)"
+  },
+  {
+    "id": 419,
+    "title": "En el Cielo (1)"
+  },
+  {
+    "id": 420,
+    "title": "En el Cielo (2)"
+  },
+  {
+    "id": 421,
+    "title": "En el Cielo (3)"
+  },
+  {
+    "id": 422,
+    "title": "Segundo Mando (1)"
+  },
+  {
+    "id": 423,
+    "title": "Segundo Mando (2)"
+  },
+  {
+    "id": 424,
+    "title": "Segundo Mando (3)"
+  },
+  {
+    "id": 425,
+    "title": "Definición de criatura (1)"
+  },
+  {
+    "id": 426,
+    "title": "Definición de Criatura (2)"
+  },
+  {
+    "id": 427,
+    "title": "Definición de criatura (3)"
+  },
+  {
+    "id": 428,
+    "title": "Definición de criatura (4)"
+  },
+  {
+    "id": 429,
+    "title": "Oportunidad de Venganza (1)"
+  },
+  {
+    "id": 430,
+    "title": "Oportunidad de Venganza (2)"
+  },
+  {
+    "id": 431,
+    "title": "Oportunidad de Venganza (3)"
+  },
+  {
+    "id": 432,
+    "title": "Oportunidad de Venganza (4)"
+  },
+  {
+    "id": 433,
+    "title": "Oportunidad de Venganza (5)"
+  },
+  {
+    "id": 434,
+    "title": "Oportunidad de Venganza (6)"
+  },
+  {
+    "id": 435,
+    "title": "Oportunidad de Venganza (7)"
+  },
+  {
+    "id": 436,
+    "title": "Oportunidad de Venganza (8)"
+  },
+  {
+    "id": 437,
+    "title": "El Día de la Luna Llena (1)"
+  },
+  {
+    "id": 438,
+    "title": "El Día de la Luna Llena (2)"
+  },
+  {
+    "id": 439,
+    "title": "El día de la luna llena (3)"
+  },
+  {
+    "id": 440,
+    "title": "El Día de la Luna Llena (4)"
+  },
+  {
+    "id": 441,
+    "title": "El Día de la Luna Llena (5)"
+  },
+  {
+    "id": 442,
+    "title": "El Día de la Luna Llena (6)"
+  },
+  {
+    "id": 443,
+    "title": "El Día de la Luna Llena (7)"
+  },
+  {
+    "id": 444,
+    "title": "El Día de la Luna Llena (8)"
+  },
+  {
+    "id": 445,
+    "title": "El Día de la Luna Llena (9)"
+  },
+  {
+    "id": 446,
+    "title": "Armadura Mental (1)"
+  },
+  {
+    "id": 447,
+    "title": "Armadura Mental (2)"
+  },
+  {
+    "id": 448,
+    "title": "Armadura Mental (3)"
+  },
+  {
+    "id": 449,
+    "title": "El Comienzo del Cambio (1)"
+  },
+  {
+    "id": 450,
+    "title": "El Comienzo del Cambio (2)"
+  },
+  {
+    "id": 451,
+    "title": "El Comienzo del Cambio (3)"
+  },
+  {
+    "id": 452,
+    "title": "El Comienzo del Cambio (4)"
+  },
+  {
+    "id": 453,
+    "title": "El Comienzo del Cambio (5)"
+  },
+  {
+    "id": 454,
+    "title": "El Comienzo del Cambio (6)"
+  },
+  {
+    "id": 455,
+    "title": "El Comienzo del Cambio (7)"
+  },
+  {
+    "id": 456,
+    "title": "El Comienzo del Cambio (8)"
+  },
+  {
+    "id": 457,
+    "title": "El Comienzo del Cambio (9)"
+  },
+  {
+    "id": 458,
+    "title": "El Comienzo del Cambio (10)"
+  },
+  {
+    "id": 459,
+    "title": "La Llamada de Ra (1)"
+  },
+  {
+    "id": 460,
+    "title": "La Llamada de Ra (2)"
+  },
+  {
+    "id": 461,
+    "title": "La Llamada de Ra (3)"
+  },
+  {
+    "id": 462,
+    "title": "La Llamada de Ra (4)"
+  },
+  {
+    "id": 463,
+    "title": "La Llamada de Ra (5)"
+  },
+  {
+    "id": 464,
+    "title": "La Llamada de Ra (6)"
+  },
+  {
+    "id": 465,
+    "title": "Inicio de la Guerra (1)"
+  },
+  {
+    "id": 466,
+    "title": "Inicio de la Guerra (2)"
+  },
+  {
+    "id": 467,
+    "title": "Inicio de la Guerra (3)"
+  },
+  {
+    "id": 468,
+    "title": "Así de nuevo (1)"
+  },
+  {
+    "id": 469,
+    "title": "Así de nuevo (2)"
+  },
+  {
+    "id": 470,
+    "title": "Así de nuevo (3)"
+  },
+  {
+    "id": 471,
+    "title": "El nacimiento de los seres humanos (1)"
+  },
+  {
+    "id": 472,
+    "title": "El nacimiento de los seres humanos (2)"
+  },
+  {
+    "id": 473,
+    "title": "El nacimiento de los seres humanos (3)"
+  },
+  {
+    "id": 474,
+    "title": "Tanto como el camino que vine (1)"
+  },
+  {
+    "id": 475,
+    "title": "Tanto como el camino que vine (2)"
+  },
+  {
+    "id": 476,
+    "title": "Tanto como el camino que vine (3)"
+  },
+  {
+    "id": 477,
+    "title": "Su nombre es Gangnan (1)"
+  },
+  {
+    "id": 478,
+    "title": "Su nombre es Gangnan (2)"
+  },
+  {
+    "id": 479,
+    "title": "Jikji (1)"
+  },
+  {
+    "id": 480,
+    "title": "Jikji (2)"
+  },
+  {
+    "id": 481,
+    "title": "Jikji (3)"
+  },
+  {
+    "id": 482,
+    "title": "Jikji (4)"
+  },
+  {
+    "id": 483,
+    "title": "Noche en el Cielo (1)"
+  },
+  {
+    "id": 484,
+    "title": "La Noche del Cielo (2)"
+  },
+  {
+    "id": 485,
+    "title": "La Noche del Cielo (3)"
+  },
+  {
+    "id": 486,
+    "title": "La Noche del Cielo (4)"
+  },
+  {
+    "id": 487,
+    "title": "Noche en el Cielo (5)"
+  },
+  {
+    "id": 488,
+    "title": "Nueva variable (1)"
+  },
+  {
+    "id": 489,
+    "title": "Nueva variable (2)"
+  },
+  {
+    "id": 490,
+    "title": "Nueva variable (3)"
+  },
+  {
+    "id": 491,
+    "title": "Nueva variable (4)"
+  },
+  {
+    "id": 492,
+    "title": "Nueva variable (5)"
+  },
+  {
+    "id": 493,
+    "title": "Esa tarde (1)"
+  },
+  {
+    "id": 494,
+    "title": "Esa tarde (2)"
+  },
+  {
+    "id": 495,
+    "title": "Esa tarde (3)"
+  },
+  {
+    "id": 496,
+    "title": "Esa tarde (4)"
+  },
+  {
+    "id": 497,
+    "title": "Esa tarde (5)"
+  },
+  {
+    "id": 498,
+    "title": "Desesperación. Desesperación (1)"
+  },
+  {
+    "id": 499,
+    "title": "Desesperación. Desesperación (2)"
+  },
+  {
+    "id": 500,
+    "title": "Desesperación. Desesperación (3)"
+  }
+]
